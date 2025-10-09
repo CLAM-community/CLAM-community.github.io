@@ -30,4 +30,11 @@
 
 ## Contributing
 
-There are various ways that you can contribute to 
+Here is a list of the people who have contributed to the project.
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
