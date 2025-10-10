@@ -12,6 +12,9 @@ theme:
         primary: blue
         accent: blue
 
+extra:
+    zulip_url: https://ola-community-test.zulipchat.com/
+
 markdown_extensions:
     - admonition
     - attr_list
