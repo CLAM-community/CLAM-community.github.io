@@ -26,7 +26,7 @@ class SocialAccount(BaseModel):
     url: str
 
     def get_markdown(self) -> str:
-        return f"<a class='{get_social_icon(self.platform)}' href='{self.url}'></a>"
+        return f"[{self.platform}]({self.url})"
 
 
 class Person(BaseModel):
@@ -38,22 +38,25 @@ class Person(BaseModel):
     preferred_method_of_contact: str
 
     def to_card(self) -> str:
-        return (
-            f"<div>{self.name} "
-            f"({' '.join(social.get_markdown() for social in self.socials)}) "
-            f"{self.preferred_method_of_contact}</div>"
-        )
+        return f"""   - **{self.name}**
+    
+    ---
+
+    ({", ".join(social.get_markdown() for social in self.socials)})
+    
+    Preferred contact: {self.preferred_method_of_contact}
+    """
 
 
 def render_people_to_grid(people: list[Person]) -> str:
     cards = "\n".join(person.to_card() for person in people)
-    return f'<div class="grid cards">\n\n{cards}\n\n</div>'
+    return f'<div class="grid cards" markdown>\n\n{cards}\n\n</div>'
 
 
 def get_people() -> list[Person]:
     """Load people from the YAML file."""
     people_yaml_path = DATA_FOLDER / "people.yaml"
-    with open(people_yaml_path, "r") as f:
+    with open(people_yaml_path) as f:
         people_data = yaml.safe_load(f)
     return [Person(**person) for person in people_data["person"]]
 
