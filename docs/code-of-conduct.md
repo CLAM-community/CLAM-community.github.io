@@ -5,13 +5,13 @@ community around Langrangian modelling and analysis science and software.
 
 We are building the {{COMMUNITY_NAME}} community in a way that promotes fairness
 and justice for all, with a particular focus on supporting those from
-traditionally marginalized / underrepresented groups. We want every member of
+traditionally marginalized / under-represented groups. We want every member of
 our community to thrive; we want to make a positive impact on our community
 members' work and on the work of others.
 
 ## What this code of conduct defines
 
-Our Code of Conduct defines expected behavior
+Our Code of Conduct defines expected behaviour
 and guidelines that help create such a community.
 
 Anyone who participates in a {{COMMUNITY_NAME}} activity either online or in person is expected to show respect and courtesy to others in all interactions. These interactions may occur in a variety of locations including:
@@ -24,17 +24,17 @@ Anyone who participates in a {{COMMUNITY_NAME}} activity either online or in per
 
 To make sure that everyone has a common understanding of “show respect and courtesy to each other,” we have adopted the following code of conduct. The code of conduct is enforced by {{COMMUNITY_NAME}} Moderators as well as the Steering Council.
 
-## Unacceptable behavior
+## Unacceptable behaviour
 
-The following types of behavior are unacceptable in {{COMMUNITY_NAME}} spaces, both online and in-person, and constitute code of conduct violations.
+The following types of behaviour are unacceptable in {{COMMUNITY_NAME}} spaces, both online and in-person, and constitute code of conduct violations.
 
-### Abusive behavior
+### Abusive behaviour
 
 **Harassment:** including offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, or religion, as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, inappropriate physical contact, and unwelcome sexual or romantic attention.
 
 **Threats:** threatening someone physically or verbally. For example, threatening to publicize sensitive information about someone’s personal life.
 
-### Unwelcoming behavior
+### Unwelcoming behaviour
 
 #### Blatant acts and micro-aggressions
 Blatant micro-aggressions involve making statements that assume
@@ -53,7 +53,7 @@ violation when made by mistake.
 
 However, repeating something after it has been pointed out to you that you
 broke a social rule, or antagonizing or arguing with someone who has pointed
-out your micro-aggression is considered unwelcoming behavior, and is not
+out your micro-aggression is considered unwelcoming behaviour, and is not
 allowed in the {{COMMUNITY_NAME}} community.
 
 #### Maliciousness towards other community members
@@ -66,7 +66,7 @@ are deemed especially/repeatedly unpleasant (see below).
 
 Being especially or repeatedly unpleasant: for example, if we’ve received
 reports from multiple {{COMMUNITY_NAME}} users, team members, or collaborators of
-agitating, rude, or especially distracting behavior over an extended period of
+agitating, rude, or especially distracting behaviour over an extended period of
 time.
 
 
@@ -83,31 +83,31 @@ those spaces—{{COMMUNITY_NAME}} community members may go on walks together to 
 lunch, attend meetups or conferences as a group, communicate on social
 media, or interact with each other in other communities.
 
-Abusive or unwelcoming behavior between community members still has a
+Abusive or unwelcoming behaviour between community members still has a
 profound impact on individuals and on the community when it happens beyond
 our walls. The {{COMMUNITY_NAME}} code of conduct stewards will
-use our discretion when deciding how to respond to reports of such behavior and how to proceed with enforcement. Enforcement may include removing someone from the {{COMMUNITY_NAME}} community. We will take into account the
+use our discretion when deciding how to respond to reports of such behaviour and how to proceed with enforcement. Enforcement may include removing someone from the {{COMMUNITY_NAME}} community. We will take into account the
 impact on the individual community members involved as well as the impact
 on the community at large.
 
 ```{note}
-When in doubt, please report unacceptable behavior to us. If someone's behavior make you feel unsafe within the {{COMMUNITY_NAME}} space, we want to support and help you.
+When in doubt, please report unacceptable behaviour to us. If someone's behaviour make you feel unsafe within the {{COMMUNITY_NAME}} space, we want to support and help you.
 ```
 
 ## Enforcement
 
-We’ve categorized unacceptable behavior into abuse and unwelcoming behavior in the section above.
+We’ve categorized unacceptable behaviour into abuse and unwelcoming behaviour in the section above.
 
-### Enforcement related to abusive behavior
+### Enforcement related to abusive behaviour
 
-We do not tolerate abusive behavior at {{COMMUNITY_NAME}}.
-If we witness or receive a report of abusive behavior, we will
+We do not tolerate abusive behaviour at {{COMMUNITY_NAME}}.
+If we witness or receive a report of abusive behaviour, we will
 contact the perpetrator to have a conversation with them and verify
 what has transpired.
 
 We will follow this response protocol:
 
-If we verify abusive behavior:
+If we verify abusive behaviour:
 
 * They will be removed from the {{COMMUNITY_NAME}} community
 <!-- * If applicable, their employment with {{COMMUNITY_NAME}} will be terminated. -->
@@ -116,9 +116,9 @@ If we verify abusive behavior:
 
 The person will not be welcome in any physical or digital spaces covered by the {{COMMUNITY_NAME}} Code of Conduct.
 
-### Enforcement related to unwelcome behavior
-If we verify unwelcome, but non-abusive behavior, we will have a
-conversation with the person about their behavior. The goal of the conversation will be to ensure that they understand the expectation that they not repeat the behavior or other behaviors that would violate the Code of Conduct a second time.
+### Enforcement related to unwelcome behaviour
+If we verify unwelcome, but non-abusive behaviour, we will have a
+conversation with the person about their behaviour. The goal of the conversation will be to ensure that they understand the expectation that they not repeat the behaviour or other behaviors that would violate the Code of Conduct a second time.
 
 ### Response protocol steps
 The {{COMMUNITY_NAME}} Moderators and Steering Council will use the steps
@@ -126,7 +126,7 @@ below to respond to reports of code of conduct violations.
 
 1. The report will be read carefully
 2. We will followup with the person who reported the violation
-3. We will followup with the community member whose behavior was reported as violating the code of conduct
+3. We will followup with the community member whose behaviour was reported as violating the code of conduct
 
 Based upon the above steps, we will to determine whether there has been a code
 of conduct violation
@@ -148,9 +148,9 @@ Moderators and members of the Steering Council are visible on the home page of t
 
 * You are a part of the {{COMMUNITY_NAME}} community. Everyone in this community has a shared responsibility for making {{COMMUNITY_NAME}} a safe and comfortable space. The {{COMMUNITY_NAME}} Team and Executive Council members are active in the community, but given our communities size and the number of online spaces that we manage, it is easy to miss an incident that violates of code of conduct. We thus need your help to enforce the code of conduct.
 
-* The consequences to our community, of not reporting bad behavior outweigh the consequences for one person of reporting it. We sometimes hear “I don’t want X person to face consequences because I told someone about their bad behavior.” You were likely not the only one impacted by this even. Consider the potential impact on others if this behavior continues! We thank you in advance for reporting it to us.
+* The consequences to our community, of not reporting bad behaviour outweigh the consequences for one person of reporting it. We sometimes hear “I don’t want X person to face consequences because I told someone about their bad behaviour.” You were likely not the only one impacted by this even. Consider the potential impact on others if this behaviour continues! We thank you in advance for reporting it to us.
 
-* {{COMMUNITY_NAME}} is an open, participatory, community-driven community. Our community depends upon shared trust between community members. Reporting code of conduct violations helps us identify when this trust is broken. Your report helps us prevent the behavior from happening again.
+* {{COMMUNITY_NAME}} is an open, participatory, community-driven community. Our community depends upon shared trust between community members. Reporting code of conduct violations helps us identify when this trust is broken. Your report helps us prevent the behaviour from happening again.
 
 ## Code of conduct related notes
 
