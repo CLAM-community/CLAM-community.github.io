@@ -1,6 +1,6 @@
 {
-  "projectName": "{{COMMUNITY_NAME}}",
-  "projectOwner": "{{COMMUNITY_NAME}} Contributors",
+  "projectName": "COMMUNITY_NAME",
+  "projectOwner": "COMMUNITY_NAME Contributors",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [

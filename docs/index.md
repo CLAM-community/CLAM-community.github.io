@@ -1,6 +1,6 @@
-# {{COMMUNITY_NAME}}
+# COMMUNITY_NAME
 
-> {{COMMUNITY_NAME}} is a space where researchers and students to exchange ideas and discuss research in Lagrangian Modelling and Analysis. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
+> COMMUNITY_NAME is a space where researchers and students to exchange ideas and discuss research in Lagrangian Modelling and Analysis. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
 
 [Join us on Zulip]({{ zulip_url }}){ .md-button target="\_blank" }
 
