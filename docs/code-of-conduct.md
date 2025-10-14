@@ -90,9 +90,9 @@ use our discretion when deciding how to respond to reports of such behaviour and
 impact on the individual community members involved as well as the impact
 on the community at large.
 
-```{note}
-When in doubt, please report unacceptable behaviour to us. If someone's behaviour make you feel unsafe within the COMMUNITY_NAME space, we want to support and help you.
-```
+!!! NOTE
+    
+    When in doubt, please report unacceptable behaviour to us. If someone's behaviour make you feel unsafe within the COMMUNITY_NAME space, we want to support and help you.
 
 ## Enforcement
 
