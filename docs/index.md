@@ -3,6 +3,7 @@
 > COMMUNITY_NAME is a space where researchers and students to exchange ideas and discuss research in Lagrangian Modelling and Analysis. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
 
 [Join us on Zulip]({{ zulip_url }}){ .md-button target="\_blank" }
+[Code of Conduct](./code-of-conduct.md){ .md-button target="\_blank" }
 
 
 ## What is Zulip?
@@ -21,10 +22,6 @@ Zulip is an online platform that we use for the COMMUNITY_NAME. It is similar to
 - **Value aligned**: Zulip is open source software, and they have a generous cloud hosting option for academic communities. Zulip is also [GDPR compliant](https://zulip.com/help/gdpr-compliance).
 
 Many communities such as [Conda Forge](https://conda-forge.zulipchat.com/) and [Jupyter](https://jupyter.zulipchat.com) are already on Zulip!
-
-
-
-
 
 
 

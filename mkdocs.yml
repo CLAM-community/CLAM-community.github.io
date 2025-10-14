@@ -26,6 +26,7 @@ markdown_extensions:
 
 nav:
     - index.md
+    - calendar.md
     - code-of-conduct.md
 plugins:
     - macros
