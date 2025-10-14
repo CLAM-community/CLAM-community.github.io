@@ -1,0 +1,15 @@
+person:
+  - name: Erik van Sebille
+    role: steering
+    preferred_method_of_contact: Email
+    socials:
+      - platform: github
+        url: https://github.com/erikvansebille
+
+  - name: Nick Hodgskin
+    role: steering
+    preferred_method_of_contact: Zulip
+    socials:
+      - platform: github
+        url: https://github.com/VeckoTheGecko
+

@@ -31,8 +31,11 @@ Many communities such as [Conda Forge](https://conda-forge.zulipchat.com/) and [
 
 ### Steering Council
 
+{{render_role_grid('steering')}}
+
 ### Moderators
 
+{{render_role_grid('moderators')}}
 
 ---
 
