@@ -27,6 +27,24 @@ Many communities such as [Conda Forge](https://conda-forge.zulipchat.com/) and [
 
 ## Governance
 
+The organisation, direction and moderation of CLAM is done by the governance team - which is split into three roles:
+
+- **Steering Council:** These individuals make decision with respect to the direction of the community. They also may moderate conversation in the community according to the community Code of Conduct.
+- **Moderators:** These individuals moderate conversation in the community according to the community Code of Conduct.
+- **Project Representatives:** These individuals are representatives for the respective projects shown below. They have full control over the channels related to their project. 
+
+
+!!! note
+
+    This community was formed in 2025 after the [Parcels 10 Year event](https://parcels-code.org/blog/10year-event)
+    which made it clear there is a need for such an online space to facilitate
+    our science. As a result, the current governance structure has many members 
+    of the Parcels team. We value diversity - we would love to have your input  discussing ideas
+    to improve the community (e.g., event suggestions, community structure).
+    Our hope is that as this space matures that the governance structure can
+    become more diverse so that we can promote a wider range of ideas, and 
+    be more representative of the community.
+
 
 
 ### Steering Council
@@ -39,22 +57,12 @@ Many communities such as [Conda Forge](https://conda-forge.zulipchat.com/) and [
 
 ### Project Representatives
 
+_Projects are listed alphabetically._
+
 #### Parcels
 
 {{render_role_grid('project-parcels')}}
 
-
----
-
-!!! note
-
-    This community was formed in 2025 after the [Parcels 10 Year event](https://parcels-code.org/blog/10year-event)
-    which made it clear there is a need for such an online space to facilitate
-    our science. As a result, the current governance structure has many members 
-    of the Parcels team. We value diversity - we would love to have your input  discussing ideas
-    to improve the community (event suggestions, community organisation and - as this space matures) promote more
-    diversity in ideas and diversity in governance, so that we can be more 
-    representative of the community.
 
 ## Contributing
 
