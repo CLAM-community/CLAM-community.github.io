@@ -1,6 +1,6 @@
-# COMMUNITY_NAME
+# CLAM Community
 
-> COMMUNITY_NAME is a space where researchers and students to exchange ideas and discuss research in Lagrangian Modelling and Analysis. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
+> The **C**omputational **L**agrangian **A**nalysis and **M**odelling Community ("CLAM Community" or just "CLAM" for short) is a space where researchers and students to exchange ideas and discuss research in Lagrangian Modelling and Analysis. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
 
 [Join us on Zulip]({{ zulip_url }}){ .md-button target="\_blank" }
 [Code of Conduct](./code-of-conduct.md){ .md-button target="\_blank" }
@@ -15,7 +15,7 @@
     yourself, message in the `sandbox` channel to test out
     the messaging syntax, or read the ["Getting Started" documentation](https://zulip.com/help/getting-started-with-zulip).
 
-Zulip is an online platform that we use for the COMMUNITY_NAME. It is similar to Slack or Discord, but has the following benefits:
+Zulip is an online platform that we use for the CLAM Community. It is similar to Slack or Discord, but has the following benefits:
 
 - **Rich messaging syntax**: Messaging on Zulip has support for LaTeX, code blocks, polls, and more.
 - **Feature rich**: Zulip provides many integrations with other services, allowing us to easily set up video conferencing or integrate with 3rd party platforms like GitHub

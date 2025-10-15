@@ -1,7 +1,7 @@
 [project]
-name = "COMMUNITY_NAME"
+name = "CLAM"
 version = "0.1.0"
-description = "COMMUNITY_NAME Website"
+description = "CLAM Website"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
