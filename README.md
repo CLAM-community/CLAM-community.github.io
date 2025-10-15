@@ -1,7 +1,7 @@
 # CLAM Website
 [![All Contributors](https://img.shields.io/github/all-contributors/CLAM-community/CLAM-community.github.io?color=ee8449&style=flat-square)](#contributors)
 
-**All the information about the CLAM Community (i.e., community mission, instructions to join the Zulip Community, contributing, governance) is visible on the [CLAM Community Website](https://uu-imau.github.io/python-for-lunch/).**
+**All the information about the CLAM Community (i.e., community mission, instructions to join the Zulip Community, contributing, governance) is visible on the [CLAM Community Website](https://clam-community.github.io).**
 
 ## Building this website locally
 
