@@ -3,10 +3,9 @@ from typing import Literal
 import yaml
 from pathlib import Path
 
-ZULIP_COMMUNITY_URL = ...
 PLATFORM = Literal["zulip", "email", "github", "linkedin"]
 DATA_FOLDER = Path("data")
-ROLE = Literal["steering", "moderator"]
+ROLE = Literal["steering", "moderator", "project-parcels"]
 
 
 def get_social_icon(platform: PLATFORM) -> str:
@@ -33,7 +32,7 @@ class Person(BaseModel):
     """A model representing a person in the community."""
 
     name: str
-    role: ROLE
+    roles: list[ROLE]
     socials: list[SocialAccount]
     preferred_method_of_contact: str
 
@@ -43,7 +42,7 @@ class Person(BaseModel):
     ---
 
     ({", ".join(social.get_markdown() for social in self.socials)})
-    
+
     Preferred contact: {self.preferred_method_of_contact}
     """
 
@@ -73,5 +72,5 @@ def define_env(env):
     def render_role_grid(role: ROLE) -> str:
         "Render people with their roles"
         return render_people_to_grid(
-            [person for person in PEOPLE if person.role == role]
+            [person for person in PEOPLE if role in person.roles]
         )

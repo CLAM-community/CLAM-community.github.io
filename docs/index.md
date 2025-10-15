@@ -37,6 +37,13 @@ Many communities such as [Conda Forge](https://conda-forge.zulipchat.com/) and [
 
 {{render_role_grid('moderators')}}
 
+### Project Representatives
+
+#### Parcels
+
+{{render_role_grid('project-parcels')}}
+
+
 ---
 
 !!! note
