@@ -1,6 +1,6 @@
 site_name: CLAM
-site_url: https://VeckoTheGecko.github.io/zulip-lagrangian-community
-repo_url: https://github.com/VeckoTheGecko/zulip-lagrangian-community
+site_url: https://clam-community.github.io/
+repo_url: https://github.com/CLAM-community/CLAM-community.github.io
 edit_uri: edit/main/docs/
 theme:
     name: material
