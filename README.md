@@ -1,8 +1,7 @@
-# COMMUNITY_NAME Website
-[![All Contributors](https://img.shields.io/github/all-contributors/VeckoTheGecko/zulip-lagrangian-community?color=ee8449&style=flat-square)](#contributors)
-<!-- TODO: Update org and repo name once move is done -->
+# CLAM Website
+[![All Contributors](https://img.shields.io/github/all-contributors/CLAM-community/CLAM-community.github.io?color=ee8449&style=flat-square)](#contributors)
 
-**All the information about COMMUNITY_NAME (i.e., community mission, instructions to join the Zulip Community, contributing, governance) is visible on the [COMMUNITY_NAME Website](https://uu-imau.github.io/python-for-lunch/).**
+**All the information about the CLAM Community (i.e., community mission, instructions to join the Zulip Community, contributing, governance) is visible on the [CLAM Community Website](https://uu-imau.github.io/python-for-lunch/).**
 
 ## Building this website locally
 
