@@ -19,8 +19,6 @@ def get_social_icon(platform: PLATFORM) -> str:
 
 
 class SocialAccount(BaseModel):
-    """A model representing a social media account."""
-
     platform: PLATFORM
     url: str
 
@@ -29,8 +27,6 @@ class SocialAccount(BaseModel):
 
 
 class Person(BaseModel):
-    """A model representing a person in the community."""
-
     name: str
     roles: list[ROLE]
     socials: list[SocialAccount]
@@ -53,7 +49,6 @@ def render_people_to_grid(people: list[Person]) -> str:
 
 
 def get_people() -> list[Person]:
-    """Load people from the YAML file."""
     people_yaml_path = DATA_FOLDER / "people.yaml"
     with open(people_yaml_path) as f:
         people_data = yaml.safe_load(f)
