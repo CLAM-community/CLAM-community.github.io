@@ -1,6 +1,6 @@
 # CLAM Community
 
-> The **C**omputational **L**agrangian **A**nalysis and **M**odelling Community ("CLAM Community" or just "CLAM" for short) is a space where researchers and students to exchange ideas and discuss research in Lagrangian Modelling and Analysis. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
+> The **C**omputational **L**agrangian **A**nalysis and **M**odelling Community ("CLAM Community" or just "CLAM" for short) is a space where researchers and students can exchange ideas and discuss research in Lagrangian Modelling and Analysis. Most of our expertise is in ocean science - but we'd love to have you as part of the community if you have different expertise!
 
 [Join us on Zulip]({{ zulip_url }}){ .md-button target="\_blank" }
 [Code of Conduct](./code-of-conduct.md){ .md-button target="\_blank" }
@@ -17,6 +17,7 @@
 
 Zulip is an online platform that we use for the CLAM Community. It is similar to Slack or Discord, but has the following benefits:
 
+- **Viewable without an account**: Zulip allows members of the community who don't have an account to follow and benefit from community discussions.
 - **Rich messaging syntax**: Messaging on Zulip has support for LaTeX, code blocks, polls, and more.
 - **Feature rich**: Zulip provides many integrations with other services, allowing us to easily set up video conferencing or integrate with 3rd party platforms like GitHub
 - **Value aligned**: Zulip is open source software, and they have a generous cloud hosting option for academic communities. Zulip is also [GDPR compliant](https://zulip.com/help/gdpr-compliance).
@@ -44,7 +45,7 @@ The organisation, direction and moderation of CLAM is done by the governance tea
     Our hope is that as this space matures that the governance structure can
     become more diverse so that we can promote a wider range of ideas, and 
     be more representative of the community. We aim to raise this at the
-    town hall at the Ocean Sciences Meeting in 2026.
+    [town hall at the Ocean Sciences Meeting in 2026](https://agu.confex.com/agu/osm26/meetingapp.cgi/Session/253763).
 
 
 
