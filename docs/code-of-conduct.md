@@ -1,7 +1,7 @@
 # CLAM Community Code of Conduct
 
 The CLAM Community is dedicated to creating a welcoming, supportive and diverse
-community around Langrangian modelling and analysis science and software.
+community around computational Langrangian analysis and modelling science and software.
 
 We are building the CLAM Community in a way that promotes fairness
 and justice for all, with a particular focus on supporting those from
@@ -85,13 +85,13 @@ media, or interact with each other in other communities.
 
 Abusive or unwelcoming behaviour between community members still has a
 profound impact on individuals and on the community when it happens beyond
-our walls. The CLAM code of conduct stewards will
+our walls. The CLAM Code of Conduct Stewards will
 use our discretion when deciding how to respond to reports of such behaviour and how to proceed with enforcement. Enforcement may include removing someone from the CLAM community. We will take into account the
 impact on the individual community members involved as well as the impact
 on the community at large.
 
 !!! NOTE
-    
+
     When in doubt, please report unacceptable behaviour to us. If someone's behaviour make you feel unsafe within the CLAM space, we want to support and help you.
 
 ## Enforcement
@@ -137,7 +137,7 @@ If you see a violation of our code of conduct, [please report it to our
 CLAM Code of Conduct Stewards using this form.](https://forms.gle/7MR7tCpDuprtStWP9)
 This is a short Google Form that will be sent to any Executive Council member
 acting as a Code of Conduct Steward (see below for details). Alternatively, if
-you wish to report to one of the Code of Conduct stewards specifically, email
+you wish to report to one of the Code of Conduct Stewards specifically, email
 them directly.
 
 ### Current Moderators and Steering Council members
