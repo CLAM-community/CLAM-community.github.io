@@ -4,6 +4,7 @@
 
 [Join us on Zulip]({{ zulip_url }}){ .md-button target="\_blank" }
 [Code of Conduct](./code-of-conduct.md){ .md-button target="\_blank" }
+[Calendar](./calendar.md){ .md-button target="\_blank" }
 
 
 ## What is Zulip?
