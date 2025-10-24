@@ -1,4 +1,12 @@
-# CLAM Community
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+# Home
+
+![CLAM Community](./assets/branding/svg/clam-full-white-buffer.svg)
 
 > The **C**omputational **L**agrangian **A**nalysis and **M**odelling Community ("CLAM Community" or just "CLAM" for short) is a space where researchers and students to exchange ideas and discuss research in Lagrangian Modelling and Analysis. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
 
