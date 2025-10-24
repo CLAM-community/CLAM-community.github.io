@@ -1,6 +1,6 @@
 {
-    "projectName": "CLAM",
-    "projectOwner": "CLAM Contributors",
+    "projectName": "CLAM-community.github.io",
+    "projectOwner": "CLAM-community",
     "repoType": "github",
     "repoHost": "https://github.com",
     "files": ["README.md", "docs/index.md"],
@@ -21,6 +21,13 @@
             "avatar_url": "https://avatars.githubusercontent.com/u/14315062?v=4",
             "profile": "https://www.uu.nl/staff/EvanSebille",
             "contributions": ["steering"]
+        },
+        {
+            "login": "jimena-medinarubio",
+            "name": "Jimena Medina",
+            "avatar_url": "https://avatars.githubusercontent.com/u/101462540?v=4",
+            "profile": "https://github.com/jimena-medinarubio",
+            "contributions": ["design"]
         }
     ],
     "contributorsPerLine": 7,
@@ -35,5 +42,6 @@
             "symbol": "💫",
             "description": "Current or previous members of the project moderation team."
         }
-    }
+    },
+    "commitType": "docs"
 }

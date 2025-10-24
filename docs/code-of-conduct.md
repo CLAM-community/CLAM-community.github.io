@@ -112,7 +112,7 @@ We will follow this response protocol:
 If we verify abusive behaviour:
 
 - They will be removed from the CLAM Community
-      <!-- * If applicable, their employment with CLAM will be terminated. -->
+  <!-- * If applicable, their employment with CLAM will be terminated. -->
 - Their Zulip account will be deactivated, and
 - Permissions will be removed from any CLAM-related repositories and/or accounts.
 
