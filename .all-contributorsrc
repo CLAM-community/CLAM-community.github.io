@@ -28,6 +28,13 @@
             "avatar_url": "https://avatars.githubusercontent.com/u/101462540?v=4",
             "profile": "https://github.com/jimena-medinarubio",
             "contributions": ["design"]
+        },
+        {
+            "login": "sruehs",
+            "name": "sruehs",
+            "avatar_url": "https://avatars.githubusercontent.com/u/33282992?v=4",
+            "profile": "https://github.com/sruehs",
+            "contributions": ["content"]
         }
     ],
     "contributorsPerLine": 7,
