@@ -4,8 +4,8 @@ repo_url: https://github.com/CLAM-community/CLAM-community.github.io
 edit_uri: edit/main/docs/
 theme:
     name: material
-    logo: assets/logo.png
-    favicon: assets/logo.png
+    logo: assets/branding/svg/clam-logo-white-buffer-no-margin.svg
+    favicon: assets/branding/svg/clam-logo-white-buffer.svg
     features:
         - content.action.edit
     palette:
