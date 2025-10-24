@@ -9,7 +9,7 @@
 
 ![CLAM Community](./assets/branding/svg/clam-full-white-buffer.svg)
 
-> The **C**omputational **L**agrangian **A**nalysis and **M**odelling Community ("CLAM Community" or just "CLAM" for short) is a space where researchers and students to exchange ideas and discuss research in Lagrangian Modelling and Analysis. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
+> The **C**omputational **L**agrangian **A**nalysis and **M**odelling Community ("CLAM Community" or just "CLAM" for short) is a space where Lagrangian Modelling and Analysis enthusiasts can discuss their ongoing research, explore new collaborations, and shape future community projects. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
 
 [Join us on Zulip]({{ zulip_url }}){ .md-button target="\_blank" }
 [Code of Conduct](./code-of-conduct.md){ .md-button target="\_blank" }
@@ -30,6 +30,20 @@ Zulip is an online platform that we use for the CLAM Community. It is similar to
 - **Value aligned**: Zulip is open source software, and they have a generous cloud hosting option for academic communities. Zulip is also [GDPR compliant](https://zulip.com/help/gdpr-compliance).
 
 Many communities such as [Conda Forge](https://conda-forge.zulipchat.com/) and [Jupyter](https://jupyter.zulipchat.com) are already on Zulip!
+
+### How to use the CLAM Zulip structured?
+
+The CLAM Zulip is structured into different channels, shown below in alphabetical order:
+
+- **announcements**: Announcements that are important for the community. This is a read-only channel - if you want to post here message a member of the steering team!
+- **general**: Scientific, or general conversation around Computational Lagrangian Analysis and Modelling. This is where the main discussion happens organised into Zulip topics.
+- **introductions**: Send a message in this channel to introduce yourself. What are you working on? What is your affiliation? What are you excited about? Or even what is your favourite animal?
+- **code-...**: These channels are used to discuss specific software projects related to Computational Lagrangian Analysis and Modelling.
+- **suggestion-box**: Make suggestions about how we can improve this community. All suggestions welcome!
+- **sandbox**: Experiment with Zulip here. 🧪 Send messages, test out formatting. We recommend to unsubscribe from this channels notifications.
+- **Zulip**: Updates and notifications from Zulip.
+
+There are also private channels used for the organisation of CLAM.
 
 ## Governance
 
@@ -59,7 +73,9 @@ The organisation, direction and moderation of CLAM is done by the governance tea
 
 {{render_role_grid('moderators')}}
 
-### Project Representatives
+### Software Project Representatives
+
+The CLAM Zulip has "project" channels. These channels are used to discuss specific software projects related to Computational Lagrangian Analysis and Modelling. These channels act as good touch points for these projects with the community as a whole, while maintaining discussion boards in GitHub for more in-depth discussions and issue tracking.
 
 _Projects are listed alphabetically._
 

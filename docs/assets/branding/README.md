@@ -1,5 +1,9 @@
 # Branding assets
 
+## Font
+
+The logo uses the [Summary Notes Font](https://www.cufonfonts.com/font/summary-notes).
+
 ## Colour Palette
 
 TODO (CLAM doesn't yet have a full colour palette)
