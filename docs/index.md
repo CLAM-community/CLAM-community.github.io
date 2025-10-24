@@ -31,6 +31,20 @@ Zulip is an online platform that we use for the CLAM Community. It is similar to
 
 Many communities such as [Conda Forge](https://conda-forge.zulipchat.com/) and [Jupyter](https://jupyter.zulipchat.com) are already on Zulip!
 
+### How to use the CLAM Zulip structured?
+
+The CLAM Zulip is structured into different channels, shown below in alphabetical order:
+
+- **announcements**: Announcements that are important for the community. This is a read-only channel - if you want to post here message a member of the steering team!
+- **general**: Scientific, or general conversation around Computational Lagrangian Analysis and Modelling. This is where the main discussion happens organised into Zulip topics.
+- **introductions**: Send a message in this channel to introduce yourself. What are you working on? What is your affiliation? What are you excited about? Or even what is your favourite animal?
+- **code-...**: These channels are used to discuss specific software projects related to Computational Lagrangian Analysis and Modelling.
+- **suggestion-box**: Make suggestions about how we can improve this community. All suggestions welcome!
+- **sandbox**: Experiment with Zulip here. 🧪 Send messages, test out formatting. We recommend to unsubscribe from this channels notifications.
+- **Zulip**: Updates and notifications from Zulip.
+
+There are also private channels used for the organisation of CLAM.
+
 ## Governance
 
 The organisation, direction and moderation of CLAM is done by the governance team - which is split into three roles:
