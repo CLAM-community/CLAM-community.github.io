@@ -1,15 +1,14 @@
 person:
-  - name: Erik van Sebille
-    roles: [steering, project-parcels]
-    preferred_method_of_contact: Email
-    socials:
-      - platform: github
-        url: https://github.com/erikvansebille
+    - name: Erik van Sebille
+      roles: [steering, project-parcels]
+      preferred_method_of_contact: Email
+      socials:
+          - platform: github
+            url: https://github.com/erikvansebille
 
-  - name: Nick Hodgskin
-    roles: [steering, project-parcels]
-    preferred_method_of_contact: Zulip
-    socials:
-      - platform: github
-        url: https://github.com/VeckoTheGecko
-
+    - name: Nick Hodgskin
+      roles: [steering, project-parcels]
+      preferred_method_of_contact: Zulip
+      socials:
+          - platform: github
+            url: https://github.com/VeckoTheGecko

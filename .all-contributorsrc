@@ -1,17 +1,14 @@
 {
-  "projectName": "CLAM",
-  "projectOwner": "CLAM Contributors",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "files": [
-    "README.md",
-    "docs/index.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "commitConvention": "angular",
-  "contributors": [],
-  "contributorsPerLine": 7,
-  "skipCi": true,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)"
+    "projectName": "CLAM",
+    "projectOwner": "CLAM Contributors",
+    "repoType": "github",
+    "repoHost": "https://github.com",
+    "files": ["README.md", "docs/index.md"],
+    "imageSize": 100,
+    "commit": false,
+    "commitConvention": "angular",
+    "contributors": [],
+    "contributorsPerLine": 7,
+    "skipCi": true,
+    "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)"
 }
