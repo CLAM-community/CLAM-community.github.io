@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Vecko <36369090+VeckoTheGecko@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "branding"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+cairosvg = ">=2.8.2,<3"
