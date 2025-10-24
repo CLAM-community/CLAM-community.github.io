@@ -73,7 +73,9 @@ The organisation, direction and moderation of CLAM is done by the governance tea
 
 {{render_role_grid('moderators')}}
 
-### Project Representatives
+### Software Project Representatives
+
+The CLAM Zulip has "project" channels. These channels are used to discuss specific software projects related to Computational Lagrangian Analysis and Modelling. These channels act as good touch points for these projects with the community as a whole, while maintaining discussion boards in GitHub for more in-depth discussions and issue tracking.
 
 _Projects are listed alphabetically._
 
