@@ -12,4 +12,4 @@ Different variants of the CLAM logo are provided which are suitable on both ligh
 
 You can find the PNG assets in the `png` folder.
 
-These are automatically generated from the `svg` assets using `pixi run python convert-png.py` when cd'ed into this folder.
+These are automatically generated from the `svg` assets using `pixi run python convert-png.py` when cd'ed into this folder. You need to have [Pixi](https://pixi.sh/dev/) installed.
