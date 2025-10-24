@@ -74,6 +74,15 @@ Here is a list of the people who have contributed to the project.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/VeckoTheGecko"><img src="https://avatars.githubusercontent.com/u/36369090?v=4?s=100" width="100px;" alt="Nick Hodgskin"/><br /><sub><b>Nick Hodgskin</b></sub></a><br /><a href="#steering-VeckoTheGecko" title="Current or previous members of the project steering team.">🚣</a> <a href="https://github.com/CLAM Contributors/CLAM/commits?author=VeckoTheGecko" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.uu.nl/staff/EvanSebille"><img src="https://avatars.githubusercontent.com/u/14315062?v=4?s=100" width="100px;" alt="Erik van Sebille"/><br /><sub><b>Erik van Sebille</b></sub></a><br /><a href="#steering-erikvansebille" title="Current or previous members of the project steering team.">🚣</a></td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
