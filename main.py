@@ -60,9 +60,7 @@ PEOPLE = get_people()
 
 
 def define_env(env):
-    """
-    Mkdocs hook for the variables, macros and filters.
-    """
+    """Mkdocs hook for the variables, macros and filters."""
 
     @env.macro
     def render_role_grid(role: ROLE) -> str:
