@@ -87,7 +87,7 @@ media, or interact with each other in other communities.
 
 Abusive or unwelcoming behaviour between community members still has a
 profound impact on individuals and on the community when it happens beyond
-our walls. The CLAM Code of Conduct Stewards will
+our walls. The CLAM Steering Council will
 use our discretion when deciding how to respond to reports of such behaviour and how to proceed with enforcement. Enforcement may include removing someone from the CLAM community. We will take into account the
 impact on the individual community members involved as well as the impact
 on the community at large.
@@ -138,12 +138,7 @@ of conduct violation
 
 ## Reporting code of conduct violations
 
-If you see a violation of our code of conduct, [please report it to our
-CLAM Code of Conduct Stewards using this form.](https://forms.gle/7MR7tCpDuprtStWP9)
-This is a short Google Form that will be sent to any Executive Council member
-acting as a Code of Conduct Steward (see below for details). Alternatively, if
-you wish to report to one of the Code of Conduct Stewards specifically, email
-them directly.
+If you see a violation of our code of conduct, please reach out directly to a Moderator. The list of Moderators are visible on the website, and also have the Moderator role on Zulip.
 
 ### Current Moderators and Steering Council members
 
@@ -151,7 +146,7 @@ Moderators and members of the Steering Council are visible on the home page of t
 
 ### Why should I report code of conduct violations?
 
-- You are a part of the CLAM community. Everyone in this community has a shared responsibility for making CLAM a safe and comfortable space. The CLAM Team and Executive Council members are active in the community, but given our communities size and the number of online spaces that we manage, it is easy to miss an incident that violates of code of conduct. We thus need your help to enforce the code of conduct.
+- You are a part of the CLAM community. Everyone in this community has a shared responsibility for making CLAM a safe and comfortable space. The CLAM Moderators and Steering Council members are active in the community, however we may still miss an incident that violates of code of conduct. We thus need your help to enforce the code of conduct.
 
 - The consequences to our community, of not reporting bad behaviour outweigh the consequences for one person of reporting it. We sometimes hear “I don’t want X person to face consequences because I told someone about their bad behaviour.” You were likely not the only one impacted by this even. Consider the potential impact on others if this behaviour continues! We thank you in advance for reporting it to us.
 
