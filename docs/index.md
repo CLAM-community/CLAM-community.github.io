@@ -97,6 +97,7 @@ Here is a list of the people who have contributed to the project.
       <td align="center" valign="top" width="14.28%"><a href="https://www.uu.nl/staff/EvanSebille"><img src="https://avatars.githubusercontent.com/u/14315062?v=4?s=100" width="100px;" alt="Erik van Sebille"/><br /><sub><b>Erik van Sebille</b></sub></a><br /><a href="#steering-erikvansebille" title="Current or previous members of the project steering team.">🚣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jimena-medinarubio"><img src="https://avatars.githubusercontent.com/u/101462540?v=4?s=100" width="100px;" alt="Jimena Medina"/><br /><sub><b>Jimena Medina</b></sub></a><br /><a href="#design-jimena-medinarubio" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sruehs"><img src="https://avatars.githubusercontent.com/u/33282992?v=4?s=100" width="100px;" alt="sruehs"/><br /><sub><b>sruehs</b></sub></a><br /><a href="#content-sruehs" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/reint-fischer"><img src="https://avatars.githubusercontent.com/u/33000433?v=4?s=100" width="100px;" alt="Reint"/><br /><sub><b>Reint</b></sub></a><br /><a href="#content-reint-fischer" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
