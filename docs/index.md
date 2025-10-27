@@ -13,6 +13,7 @@
 
 [Join us on Zulip]({{ zulip_url }}){ .md-button target="\_blank" }
 [Code of Conduct](./code-of-conduct.md){ .md-button }
+[Calendar](./calendar.md){ .md-button }
 
 ## What is Zulip?
 
