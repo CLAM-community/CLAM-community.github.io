@@ -47,11 +47,19 @@ class Person(BaseModel):
         return f"""   - **{self.name}**
 
     ---
+    ![Profile picture]({get_profile_picture_url(self.socials)}){{width=200px}}
 
-    ({", ".join(social.get_markdown() for social in self.socials)})
+    {" | ".join(social.get_markdown() for social in self.socials)}
 
     Preferred contact: {self.preferred_method_of_contact}
     """
+
+
+def get_profile_picture_url(socials: list[SocialAccount]) -> str:
+    for social in socials:
+        if social.platform == "github":
+            return social.url.rstrip("/") + ".png"
+    return "./assets/default-profile-pic.png"
 
 
 def render_people_to_grid(people: list[Person]) -> str:
