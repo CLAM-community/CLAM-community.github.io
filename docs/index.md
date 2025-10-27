@@ -12,7 +12,7 @@
 > The **C**omputational **L**agrangian **A**nalysis and **M**odelling Community ("CLAM Community" or just "CLAM" for short) is a space where Lagrangian Modelling and Analysis enthusiasts can discuss their ongoing research, explore new collaborations, and shape future community projects. Most of our expertise is in Ocean science - but we'd love to have you as part of the community if you have different expertise!
 
 [Join us on Zulip]({{ zulip_url }}){ .md-button target="\_blank" }
-[Code of Conduct](./code-of-conduct.md){ .md-button target="\_blank" }
+[Code of Conduct](./code-of-conduct.md){ .md-button }
 
 ## What is Zulip?
 
@@ -31,7 +31,7 @@ Zulip is an online platform that we use for the CLAM Community. It is similar to
 
 Many communities such as [Conda Forge](https://conda-forge.zulipchat.com/) and [Jupyter](https://jupyter.zulipchat.com) are already on Zulip!
 
-### How to use the CLAM Zulip structured?
+### How is the CLAM Zulip structured?
 
 The CLAM Zulip is structured into different channels, shown below in alphabetical order:
 
@@ -85,7 +85,7 @@ _Projects are listed alphabetically._
 
 ## Contributing
 
-Here is a list of the people who have contributed to the project.
+We have contributors of all types - from those who've contributed to the direction of the project, code, design, feedback, and more. See below our awesome contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -105,3 +105,9 @@ Here is a list of the people who have contributed to the project.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Acknowledgements
+
+Zulip has also sponsored this community with a free standard plan - as they do for communities working in academia. See [here](https://zulip.com/for/research/) for how you can use Zulip for research.
+
+![Zulip logo](https://raw.githubusercontent.com/zulip/zulip/c31a23d589780b641de86e10311cc1bca40717c8/static/images/logo/zulip-org-logo.svg){width=25%}
