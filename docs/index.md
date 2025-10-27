@@ -80,7 +80,7 @@ The CLAM Zulip has "project" channels. These channels are used to discuss specif
 
 _Projects are listed alphabetically._
 
-#### Parcels
+#### [Parcels](https://parcels-code.org/)
 
 {{render_role_grid('project-parcels')}}
 
