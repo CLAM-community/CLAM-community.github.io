@@ -1,7 +1,8 @@
-from pydantic import BaseModel
-from typing import Literal
-import yaml
 from pathlib import Path
+from typing import Literal
+
+import yaml
+from pydantic import BaseModel
 
 PLATFORM = Literal["zulip", "email", "github", "linkedin"]
 DATA_FOLDER = Path("data")
@@ -34,7 +35,7 @@ class Person(BaseModel):
 
     def to_card(self) -> str:
         return f"""   - **{self.name}**
-    
+
     ---
 
     ({", ".join(social.get_markdown() for social in self.socials)})
@@ -59,13 +60,11 @@ PEOPLE = get_people()
 
 
 def define_env(env):
-    """
-    Mkdocs hook for the variables, macros and filters.
-    """
+    """Mkdocs hook for the variables, macros and filters."""
 
     @env.macro
     def render_role_grid(role: ROLE) -> str:
-        "Render people with their roles"
+        """Render people with their roles"""
         return render_people_to_grid(
             [person for person in PEOPLE if role in person.roles]
         )
