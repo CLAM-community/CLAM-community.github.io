@@ -3,6 +3,10 @@ person:
       roles: [steering, project-parcels]
       preferred_method_of_contact: Email
       socials:
+          - platform: email
+            url: mailto:e.vansebille@uu.nl
+          - platform: zulip
+            url: https://clam-community.zulipchat.com/#user/981761
           - platform: github
             url: https://github.com/erikvansebille
 
@@ -10,5 +14,7 @@ person:
       roles: [steering, project-parcels]
       preferred_method_of_contact: Zulip
       socials:
+          - platform: zulip
+            url: https://clam-community.zulipchat.com/#user/978469
           - platform: github
             url: https://github.com/VeckoTheGecko
