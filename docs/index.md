@@ -64,7 +64,7 @@ The organisation, direction and moderation of CLAM is done by the governance tea
     Our hope is that as this space matures that the governance structure can
     become more diverse so that we can promote a wider range of ideas, and
     be more representative of the community. We aim to raise this at the
-    town hall at the Ocean Sciences Meeting in 2026.
+    [town hall at the Ocean Sciences Meeting in 2026](https://agu.confex.com/agu/osm26/meetingapp.cgi/Session/253763).
 
 ### Steering Council
 
