@@ -15,7 +15,7 @@ This project also uses `pre-commit` which you can optionally run locally (though
 
 ## Contributors
 
-We have contributors of all types - from those who've contributed to the direction of the project, code, design, feedback, and more. See below our contributors.
+We have contributors of all types - from those who've contributed to the direction of the project, code, design, feedback, and more. See below our awesome contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

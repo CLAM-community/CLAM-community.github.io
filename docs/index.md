@@ -85,7 +85,7 @@ _Projects are listed alphabetically._
 
 ## Contributing
 
-Here is a list of the people who have contributed to the project.
+We have contributors of all types - from those who've contributed to the direction of the project, code, design, feedback, and more. See below our awesome contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
