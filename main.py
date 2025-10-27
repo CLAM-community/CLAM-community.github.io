@@ -74,7 +74,9 @@ def get_people() -> list[Person]:
     return [Person(**person) for person in people_data["person"]]
 
 
-PEOPLE = get_people()
+PEOPLE = sorted(
+    get_people(), key=lambda person: person.name.split()[0]
+)  # Sort by first name
 
 
 def define_env(env):
