@@ -54,6 +54,8 @@ The organisation, direction and moderation of CLAM is done by the governance tea
 - **Moderators:** These individuals moderate conversation in the community according to the community Code of Conduct.
 - **Project Representatives:** These individuals are representatives for the respective projects shown below. They have full control over the channels related to their project.
 
+Names in the teams are sorted alphabetically by first names.
+
 !!! note
 
     This community was formed in 2025 after the [Parcels 10 Year event](https://parcels-code.org/blog/10year-event)

@@ -19,12 +19,22 @@ def get_social_icon(platform: PLATFORM) -> str:
     return icons.get(platform, "fa-solid fa-user")
 
 
+def get_platform_display_name(platform: PLATFORM) -> str:
+    display_names = {
+        "zulip": "Zulip",
+        "email": "Email",
+        "github": "GitHub",
+        "linkedin": "LinkedIn",
+    }
+    return display_names.get(platform, platform.capitalize())
+
+
 class SocialAccount(BaseModel):
     platform: PLATFORM
     url: str
 
     def get_markdown(self) -> str:
-        return f"[{self.platform}]({self.url})"
+        return f"[{get_platform_display_name(self.platform)}]({self.url})"
 
 
 class Person(BaseModel):
@@ -37,11 +47,19 @@ class Person(BaseModel):
         return f"""   - **{self.name}**
 
     ---
+    ![Profile picture]({get_profile_picture_url(self.socials)}){{width=200px}}
 
-    ({", ".join(social.get_markdown() for social in self.socials)})
+    {" | ".join(social.get_markdown() for social in self.socials)}
 
     Preferred contact: {self.preferred_method_of_contact}
     """
+
+
+def get_profile_picture_url(socials: list[SocialAccount]) -> str:
+    for social in socials:
+        if social.platform == "github":
+            return social.url.rstrip("/") + ".png"
+    return "./assets/default-profile-pic.png"
 
 
 def render_people_to_grid(people: list[Person]) -> str:
@@ -56,7 +74,9 @@ def get_people() -> list[Person]:
     return [Person(**person) for person in people_data["person"]]
 
 
-PEOPLE = get_people()
+PEOPLE = sorted(
+    get_people(), key=lambda person: person.name.split()[0]
+)  # Sort by first name
 
 
 def define_env(env):
