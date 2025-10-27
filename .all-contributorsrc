@@ -1,17 +1,68 @@
 {
-  "projectName": "CLAM",
-  "projectOwner": "CLAM Contributors",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "files": [
-    "README.md",
-    "docs/index.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "commitConvention": "angular",
-  "contributors": [],
-  "contributorsPerLine": 7,
-  "skipCi": true,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)"
+    "projectName": "CLAM-community.github.io",
+    "projectOwner": "CLAM-community",
+    "repoType": "github",
+    "repoHost": "https://github.com",
+    "files": ["README.md", "docs/index.md"],
+    "imageSize": 100,
+    "commit": false,
+    "commitConvention": "angular",
+    "contributors": [
+        {
+            "login": "VeckoTheGecko",
+            "name": "Nick Hodgskin",
+            "avatar_url": "https://avatars.githubusercontent.com/u/36369090?v=4",
+            "profile": "https://github.com/VeckoTheGecko",
+            "contributions": ["steering", "code"]
+        },
+        {
+            "login": "erikvansebille",
+            "name": "Erik van Sebille",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14315062?v=4",
+            "profile": "https://www.uu.nl/staff/EvanSebille",
+            "contributions": ["steering", "content"]
+        },
+        {
+            "login": "jimena-medinarubio",
+            "name": "Jimena Medina",
+            "avatar_url": "https://avatars.githubusercontent.com/u/101462540?v=4",
+            "profile": "https://github.com/jimena-medinarubio",
+            "contributions": ["design"]
+        },
+        {
+            "login": "sruehs",
+            "name": "sruehs",
+            "avatar_url": "https://avatars.githubusercontent.com/u/33282992?v=4",
+            "profile": "https://github.com/sruehs",
+            "contributions": ["content"]
+        },
+        {
+            "login": "reint-fischer",
+            "name": "Reint",
+            "avatar_url": "https://avatars.githubusercontent.com/u/33000433?v=4",
+            "profile": "https://github.com/reint-fischer",
+            "contributions": ["content"]
+        },
+        {
+            "login": "michaeldenes",
+            "name": "Michael Denes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1852917?v=4",
+            "profile": "https://github.com/michaeldenes",
+            "contributions": ["content"]
+        }
+    ],
+    "contributorsPerLine": 7,
+    "skipCi": true,
+    "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+    "types": {
+        "steering": {
+            "symbol": "🚣",
+            "description": "Current or previous members of the project steering team."
+        },
+        "moderation": {
+            "symbol": "💫",
+            "description": "Current or previous members of the project moderation team."
+        }
+    },
+    "commitType": "docs"
 }
