@@ -16,11 +16,11 @@ and guidelines that help create such a community.
 
 Anyone who participates in a CLAM Community activity either online or in person is expected to show respect and courtesy to others in all interactions. These interactions may occur in a variety of locations including:
 
-* in GitHub repositories
-* in our Zulip community (including direct messages)
-* during in-person events,
-* when representing the CLAM Community in public,
-* or in any event online or in person where CLAM is leading the event.
+- in GitHub repositories
+- in our Zulip community (including direct messages)
+- during in-person events,
+- when representing the CLAM Community in public,
+- or in any event online or in person where CLAM is leading the event.
 
 To make sure that everyone has a common understanding of “show respect and courtesy to each other,” we have adopted the following code of conduct. The code of conduct is enforced by CLAM Moderators as well as the Steering Council.
 
@@ -37,16 +37,18 @@ The following types of behaviour are unacceptable in CLAM spaces, both online an
 ### Unwelcoming behaviour
 
 #### Blatant acts and micro-aggressions
+
 Blatant micro-aggressions involve making statements that assume
 negative characteristics in a blanket fashion because of someone's identification
-with a particular group. We take micro-aggressions seriously,  especially
+with a particular group. We take micro-aggressions seriously, especially
 important when they target traditionally marginalized groups (e.g.,
 explicitly racist, sexist, homophobic, or transphobic statements).
 
- > For example, arguing that some people are less intelligent because
- > of their gender, race, religion.
+> For example, arguing that some people are less intelligent because
+> of their gender, race, religion.
 
 #### Repeated, subtle and unintentional micro-aggressions
+
 Subtle acts of aggression refer to small, unintentionally harmful
 mistakes made in conversation. These acts are not necessarily a code of conduct
 violation when made by mistake.
@@ -57,6 +59,7 @@ out your micro-aggression is considered unwelcoming behaviour, and is not
 allowed in the CLAM Community.
 
 #### Maliciousness towards other community members
+
 Maliciousness towards other community members: deliberately attempting to
 make others feel bad, name-calling, singling out others for derision or
 exclusion. For example, telling someone they’re not a real programmer or that
@@ -68,7 +71,6 @@ Being especially or repeatedly unpleasant: for example, if we’ve received
 reports from multiple CLAM users, team members, or collaborators of
 agitating, rude, or especially distracting behaviour over an extended period of
 time.
-
 
 ## Scope in which the CLAM code of conduct is applied
 
@@ -91,7 +93,7 @@ impact on the individual community members involved as well as the impact
 on the community at large.
 
 !!! NOTE
-    
+
     When in doubt, please report unacceptable behaviour to us. If someone's behaviour make you feel unsafe within the CLAM space, we want to support and help you.
 
 ## Enforcement
@@ -109,18 +111,21 @@ We will follow this response protocol:
 
 If we verify abusive behaviour:
 
-* They will be removed from the CLAM Community
 <!-- * If applicable, their employment with CLAM will be terminated. -->
-* Their Zulip account will be deactivated, and
-* Permissions will be removed from any CLAM-related repositories and/or accounts.
+
+- They will be removed from the CLAM Community
+- Their Zulip account will be deactivated, and
+- Permissions will be removed from any CLAM-related repositories and/or accounts.
 
 The person will not be welcome in any physical or digital spaces covered by the CLAM Code of Conduct.
 
 ### Enforcement related to unwelcome behaviour
+
 If we verify unwelcome, but non-abusive behaviour, we will have a
 conversation with the person about their behaviour. The goal of the conversation will be to ensure that they understand the expectation that they not repeat the behaviour or other behaviors that would violate the Code of Conduct a second time.
 
 ### Response protocol steps
+
 The CLAM Moderators and Steering Council will use the steps
 below to respond to reports of code of conduct violations.
 
@@ -141,23 +146,25 @@ you wish to report to one of the Code of Conduct stewards specifically, email
 them directly.
 
 ### Current Moderators and Steering Council members
+
 Moderators and members of the Steering Council are visible on the home page of the CLAM website. You can contact them either via Zulip or via the contact details listed on the website.
 
+### Why should I report code of conduct violations?
 
-###  Why should I report code of conduct violations?
+- You are a part of the CLAM community. Everyone in this community has a shared responsibility for making CLAM a safe and comfortable space. The CLAM Team and Executive Council members are active in the community, but given our communities size and the number of online spaces that we manage, it is easy to miss an incident that violates of code of conduct. We thus need your help to enforce the code of conduct.
 
-* You are a part of the CLAM community. Everyone in this community has a shared responsibility for making CLAM a safe and comfortable space. The CLAM Team and Executive Council members are active in the community, but given our communities size and the number of online spaces that we manage, it is easy to miss an incident that violates of code of conduct. We thus need your help to enforce the code of conduct.
+- The consequences to our community, of not reporting bad behaviour outweigh the consequences for one person of reporting it. We sometimes hear “I don’t want X person to face consequences because I told someone about their bad behaviour.” You were likely not the only one impacted by this even. Consider the potential impact on others if this behaviour continues! We thank you in advance for reporting it to us.
 
-* The consequences to our community, of not reporting bad behaviour outweigh the consequences for one person of reporting it. We sometimes hear “I don’t want X person to face consequences because I told someone about their bad behaviour.” You were likely not the only one impacted by this even. Consider the potential impact on others if this behaviour continues! We thank you in advance for reporting it to us.
-
-* CLAM is an open, participatory, community-driven community. Our community depends upon shared trust between community members. Reporting code of conduct violations helps us identify when this trust is broken. Your report helps us prevent the behaviour from happening again.
+- CLAM is an open, participatory, community-driven community. Our community depends upon shared trust between community members. Reporting code of conduct violations helps us identify when this trust is broken. Your report helps us prevent the behaviour from happening again.
 
 ## Code of conduct related notes
 
 ### When to seek help immediately
+
 Instead of filling out a code of conduct violation report, please contact law enforcement directly to report criminal activity (e.g. physical assault, sexual assault, theft), or to report a dangerous physical situation (e.g. fire, serious injury, fear that someone will hurt themselves or someone else).
 
 ## License
+
 The CLAM code of conduct is available under the terms of the CC0 license.
 
 Significant parts of this code of conduct are adapted from the [pyOpenSci](https://www.pyopensci.org/handbook/CODE_OF_CONDUCT.html) and [2i2c](https://team-compass.2i2c.org/en/latest/code-of-conduct/index.html) Codes of Conduct - which are both under the [CCO license](https://creativecommons.org/share-your-work/public-domain/cc0/).
