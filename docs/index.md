@@ -31,7 +31,7 @@ Zulip is an online platform that we use for the CLAM Community. It is similar to
 
 Many communities such as [Conda Forge](https://conda-forge.zulipchat.com/) and [Jupyter](https://jupyter.zulipchat.com) are already on Zulip!
 
-### How to use the CLAM Zulip structured?
+### How is the CLAM Zulip structured?
 
 The CLAM Zulip is structured into different channels, shown below in alphabetical order:
 
@@ -105,3 +105,9 @@ Here is a list of the people who have contributed to the project.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Acknowledgements
+
+Zulip has also sponsored this community with a free standard plan - as they do for communities working in academia. See [here](https://zulip.com/for/research/) for how you can use Zulip for research.
+
+![Zulip logo](https://raw.githubusercontent.com/zulip/zulip/c31a23d589780b641de86e10311cc1bca40717c8/static/images/logo/zulip-org-logo.svg){width=25%}
