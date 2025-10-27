@@ -14,31 +14,6 @@ dependencies = [
 ]
 
 [tool.ruff]
-extend-exclude = [
-    # Ignore historic files
-    "PFL_00_introduction",
-    "PFL_01_virtual-environments",
-    "PFL_02_Jupyter-notebooks",
-    "PFL_03_Jupyter_examples",
-    "PFL_04_Xarray",
-    "PFL_05_06_object_oriented_programming",
-    "PFL_07_matplotlib_basics",
-    "PFL_08_plotting_advanced",
-    "PFL_10_defensive_programming",
-    "PFL_11_Pandas",
-    "PFL_12_Exceptions_and_ListComprehensions",
-    "PFL_13_Julia",
-    "PFL_14_Numpy",
-    "PFL_16_teaching",
-    "PFL_17_matplotlib_colors",
-    "PFL_18_GUI_LAL",
-    "PFL_19_Performance01_timing",
-    "PFL_20_Performance02_dask",
-    "PFL_21_Performance02_cbindings",
-    "docs/talks/python-tidbits.ipynb"
-]
-
-[tool.ruff.lint]
 select = [
     "D",  # pydocstyle
     "E",  # Error
