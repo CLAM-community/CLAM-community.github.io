@@ -20,7 +20,7 @@
             "name": "Erik van Sebille",
             "avatar_url": "https://avatars.githubusercontent.com/u/14315062?v=4",
             "profile": "https://www.uu.nl/staff/EvanSebille",
-            "contributions": ["steering"]
+            "contributions": ["steering", "content"]
         },
         {
             "login": "jimena-medinarubio",
@@ -41,6 +41,13 @@
             "name": "Reint",
             "avatar_url": "https://avatars.githubusercontent.com/u/33000433?v=4",
             "profile": "https://github.com/reint-fischer",
+            "contributions": ["content"]
+        },
+        {
+            "login": "michaeldenes",
+            "name": "Michael Denes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1852917?v=4",
+            "profile": "https://github.com/michaeldenes",
             "contributions": ["content"]
         }
     ],
