@@ -19,12 +19,22 @@ def get_social_icon(platform: PLATFORM) -> str:
     return icons.get(platform, "fa-solid fa-user")
 
 
+def get_platform_display_name(platform: PLATFORM) -> str:
+    display_names = {
+        "zulip": "Zulip",
+        "email": "Email",
+        "github": "GitHub",
+        "linkedin": "LinkedIn",
+    }
+    return display_names.get(platform, platform.capitalize())
+
+
 class SocialAccount(BaseModel):
     platform: PLATFORM
     url: str
 
     def get_markdown(self) -> str:
-        return f"[{self.platform}]({self.url})"
+        return f"[{get_platform_display_name(self.platform)}]({self.url})"
 
 
 class Person(BaseModel):
