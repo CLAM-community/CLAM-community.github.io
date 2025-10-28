@@ -6,7 +6,7 @@ from pydantic import BaseModel
 
 PLATFORM = Literal["zulip", "email", "github", "linkedin"]
 DATA_FOLDER = Path("data")
-ROLE = Literal["steering", "moderator", "project-parcels"]
+ROLE = Literal["steering", "moderator", "project-parcels", "project-opendrift"]
 
 
 def get_social_icon(platform: PLATFORM) -> str:

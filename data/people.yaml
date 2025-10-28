@@ -18,3 +18,21 @@ person:
             url: https://clam-community.zulipchat.com/#user/978469
           - platform: github
             url: https://github.com/VeckoTheGecko
+
+    - name: Gaute Hope
+      roles: [project-opendrift]
+      preferred_method_of_contact: Zulip
+      socials:
+          - platform: zulip
+            url: https://clam-community.zulipchat.com/#user/978575
+          - platform: github
+            url: https://github.com/gauteh
+
+    - name: Knut-Frode Dagestad
+      roles: [project-opendrift]
+      preferred_method_of_contact: Zulip
+      socials:
+          - platform: zulip
+            url: https://clam-community.zulipchat.com/#user/981781
+          - platform: github
+            url: https://github.com/knutfrode
