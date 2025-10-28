@@ -5,7 +5,7 @@ edit_uri: edit/main/docs/
 theme:
     name: material
     logo: assets/branding/svg/clam-logo-white-buffer-no-margin.svg
-    favicon: assets/branding/svg/clam-logo-white-buffer.svg
+    favicon: assets/branding/png/clam-logo-white-buffer.png
     features:
         - content.action.edit
     palette:
