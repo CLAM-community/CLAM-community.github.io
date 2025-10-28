@@ -92,6 +92,10 @@ _Projects are listed alphabetically._
 
 {{render_role_grid('project-parcels')}}
 
+#### [TrajAn](https://github.com/OpenDrift/trajan)
+
+{{render_role_grid('project-trajan')}}
+
 ## Contributing
 
 We have contributors of all types - from those who've contributed to the direction of the project, code, design, feedback, and more. See below our awesome contributors ✨
