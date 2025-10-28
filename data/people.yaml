@@ -20,7 +20,7 @@ person:
             url: https://github.com/VeckoTheGecko
 
     - name: Gaute Hope
-      roles: [project-opendrift]
+      roles: [project-opendrift, project-trajan]
       preferred_method_of_contact: Zulip
       socials:
           - platform: zulip
@@ -29,7 +29,7 @@ person:
             url: https://github.com/gauteh
 
     - name: Knut-Frode Dagestad
-      roles: [project-opendrift]
+      roles: [project-opendrift, project-trajan]
       preferred_method_of_contact: Zulip
       socials:
           - platform: zulip
