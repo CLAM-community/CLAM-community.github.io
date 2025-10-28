@@ -80,7 +80,13 @@ Names in the teams are sorted alphabetically by first names.
 
 The CLAM Zulip has "project" channels. These channels are used to discuss specific software projects related to Computational Lagrangian Analysis and Modelling. These channels act as good touch points for these projects with the community as a whole, while maintaining discussion boards in GitHub for more in-depth discussions and issue tracking.
 
+These projects have representatives in the Zulip - they can be tagged using `@PROJECT Representatives` (e.g., `@Parcels Representatives`) in a message.
+
 _Projects are listed alphabetically._
+
+#### [OpenDrift](https://opendrift.github.io/)
+
+{{render_role_grid('project-opendrift')}}
 
 #### [Parcels](https://parcels-code.org/)
 

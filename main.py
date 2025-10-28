@@ -6,7 +6,7 @@ from pydantic import BaseModel
 
 PLATFORM = Literal["zulip", "email", "github", "linkedin"]
 DATA_FOLDER = Path("data")
-ROLE = Literal["steering", "moderator", "project-parcels"]
+ROLE = Literal["steering", "moderator", "project-parcels", "project-opendrift"]
 
 
 def get_social_icon(platform: PLATFORM) -> str:
@@ -44,14 +44,15 @@ class Person(BaseModel):
     preferred_method_of_contact: str
 
     def to_card(self) -> str:
-        return f"""   - **{self.name}**
+        return f"""   - ![Profile picture]({get_profile_picture_url(self.socials)}){{width=200px}}
+
+    **{self.name}**
 
     ---
-    ![Profile picture]({get_profile_picture_url(self.socials)}){{width=200px}}
 
     {" | ".join(social.get_markdown() for social in self.socials)}
 
-    Preferred contact: {self.preferred_method_of_contact}
+    _Preferred contact: {self.preferred_method_of_contact}_
     """
 
 
