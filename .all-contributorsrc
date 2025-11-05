@@ -59,9 +59,9 @@
             "symbol": "🚣",
             "description": "Current or previous members of the project steering team."
         },
-        "moderation": {
+        "moderator": {
             "symbol": "💫",
-            "description": "Current or previous members of the project moderation team."
+            "description": "Current or previous members of the project moderator team."
         }
     },
     "commitType": "docs"
