@@ -18,6 +18,8 @@ person:
             url: https://clam-community.zulipchat.com/#user/978469
           - platform: github
             url: https://github.com/VeckoTheGecko
+          - platform: linkedin
+            url: https://www.linkedin.com/in/nick-hodgskin/
 
     - name: Reint Fischer
       roles: [moderator]

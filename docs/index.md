@@ -74,7 +74,7 @@ Names in the teams are sorted alphabetically by first names.
 
 ### Moderators
 
-{{render_role_grid('moderators')}}
+{{render_role_grid('moderator')}}
 
 ### Software Project Representatives
 
