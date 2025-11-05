@@ -18,6 +18,17 @@ person:
             url: https://clam-community.zulipchat.com/#user/978469
           - platform: github
             url: https://github.com/VeckoTheGecko
+          - platform: linkedin
+            url: https://www.linkedin.com/in/nick-hodgskin/
+
+    - name: Reint Fischer
+      roles: [moderator]
+      preferred_method_of_contact: Zulip
+      socials:
+          - platform: zulip
+            url: https://clam-community.zulipchat.com/#user/978781
+          - platform: github
+            url: https://github.com/reint-fischer
 
     - name: Gaute Hope
       roles: [project-opendrift, project-trajan]

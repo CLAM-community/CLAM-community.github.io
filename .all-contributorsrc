@@ -41,7 +41,7 @@
             "name": "Reint",
             "avatar_url": "https://avatars.githubusercontent.com/u/33000433?v=4",
             "profile": "https://github.com/reint-fischer",
-            "contributions": ["content"]
+            "contributions": ["content", "moderator"]
         },
         {
             "login": "michaeldenes",
@@ -59,9 +59,9 @@
             "symbol": "🚣",
             "description": "Current or previous members of the project steering team."
         },
-        "moderation": {
+        "moderator": {
             "symbol": "💫",
-            "description": "Current or previous members of the project moderation team."
+            "description": "Current or previous members of the project moderator team."
         }
     },
     "commitType": "docs"
