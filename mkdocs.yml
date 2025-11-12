@@ -30,6 +30,7 @@ nav:
     - calendar.md
     - code-of-conduct.md
 plugins:
+    - social
     - macros
     - mkdocs-jupyter:
           ignore_h1_titles: True
