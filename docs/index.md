@@ -26,6 +26,7 @@
 
 Zulip is an online platform that we use for the CLAM Community. It is similar to Slack or Discord, but has the following benefits:
 
+- **Viewable without an account**: Zulip allows members of the community who don't have an account to follow and benefit from community discussions.
 - **Rich messaging syntax**: Messaging on Zulip has support for LaTeX, code blocks, polls, and more.
 - **Feature rich**: Zulip provides many integrations with other services, allowing us to easily set up video conferencing or integrate with 3rd party platforms like GitHub
 - **Value aligned**: Zulip is open source software, and they have a generous cloud hosting option for academic communities. Zulip is also [GDPR compliant](https://zulip.com/help/gdpr-compliance).
@@ -118,7 +119,6 @@ We have contributors of all types - from those who've contributed to the directi
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Acknowledgements
