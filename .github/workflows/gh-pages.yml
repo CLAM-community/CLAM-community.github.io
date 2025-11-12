@@ -17,10 +17,9 @@ jobs:
               run: |
                   git config user.name github-actions[bot]
                   git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-            - uses: actions/checkout@v4
-            - uses: astral-sh/setup-uv@v4
+            - uses: prefix-dev/setup-pixi@v0.9.3
               with:
-                  version: "latest"
+                  pixi-version: latest
             - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
             - uses: actions/cache@v4
               with:
@@ -28,4 +27,4 @@ jobs:
                   path: .cache
                   restore-keys: |
                       mkdocs-material-
-            - run: uv run mkdocs gh-deploy --force
+            - run: pixi run mkdocs gh-deploy --force

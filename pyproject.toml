@@ -1,18 +1,3 @@
-[project]
-name = "CLAM"
-version = "0.1.0"
-description = "CLAM Website"
-readme = "README.md"
-requires-python = ">=3.10"
-dependencies = [
-    "mkdocs-macros-plugin>=1.3.7",
-    "mkdocs>=1.6.1",
-    "mkdocs-jupyter>=0.25.1",
-    "mkdocs-material[imaging]>=9.5.50",
-    "pydantic>=2.12.1",
-    "pyyaml>=6.0.1",
-]
-
 [tool.ruff]
 select = [
     "D",  # pydocstyle

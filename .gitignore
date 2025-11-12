@@ -2,3 +2,7 @@
 !docs/talks/assets
 __pycache__
 .DS_Store
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+.cache
