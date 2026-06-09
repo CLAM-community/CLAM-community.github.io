@@ -29,3 +29,8 @@ repos:
           - id: prettier
             exclude: "^docs/talks/assets/.*"
             args: ["--tab-width", "4"]
+    - repo: https://github.com/zizmorcore/zizmor-pre-commit
+      rev: v1.25.2
+      hooks:
+          - id: zizmor
+            args: ["--offline"]
