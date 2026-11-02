@@ -1,0 +1,35 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": ["config:recommended", "schedule:monthly"],
+    "ignorePaths": [
+        "**/node_modules/**",
+        "**/bower_components/**",
+        "**/vendor/**",
+        "**/examples/**",
+        "**/__tests__/**",
+        "**/test/**",
+        "**/tests/**",
+        "**/__fixtures__/**",
+        "docs/assets/branding/**",
+        "site/**"
+    ],
+    "lockFileMaintenance": {
+        "enabled": true,
+        "schedule": ["* 0-3 1 * *"],
+        "commitMessageAction": "Update",
+        "commitMessageTopic": "Pixi lockfile"
+    },
+    "packageRules": [
+        {
+            "description": "Pixi dependencies use open lower bounds, so only refresh the lockfile via lockFileMaintenance",
+            "matchManagers": ["pixi"],
+            "matchUpdateTypes": ["major", "minor", "patch", "pin", "digest"],
+            "enabled": false
+        },
+        {
+            "groupName": "GitHub Actions",
+            "matchManagers": ["github-actions"],
+            "minimumReleaseAge": "7 days"
+        }
+    ]
+}

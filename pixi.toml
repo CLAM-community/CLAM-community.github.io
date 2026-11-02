@@ -3,7 +3,9 @@ name = "CLAM"
 version = "0.1.0"
 description = "CLAM Website"
 channels = ["conda-forge"]
+requires-pixi = ">=0.83.0"
 platforms = ["linux-64", "osx-64", "osx-arm64", "win-64"]
+exclude-newer = "7d"
 
 [dependencies]
 python = ">=3.10"
@@ -11,6 +13,6 @@ pydantic = ">=2.12.1"
 pyyaml = ">=6.0.1"
 
 # zensical
-zensical = ">=0.0.73"
+zensical = ">=0.0.71"
 pillow = "*"
 cairosvg = "*"
