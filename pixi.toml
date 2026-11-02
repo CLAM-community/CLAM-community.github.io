@@ -3,6 +3,7 @@ name = "CLAM"
 version = "0.1.0"
 description = "CLAM Website"
 channels = ["conda-forge"]
+requires-pixi = ">=0.83.0"
 platforms = ["linux-64", "osx-64", "osx-arm64", "win-64"]
 exclude-newer = "7d"
 
