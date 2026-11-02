@@ -1,0 +1,32 @@
+[project]
+site_name = "CLAM"
+site_url = "https://clam-community.github.io/"
+repo_url = "https://github.com/CLAM-community/CLAM-community.github.io"
+edit_uri = "edit/main/docs/"
+nav = ["index.md", "calendar.md", "code-of-conduct.md"]
+
+[project.extra]
+zulip_url = "https://clam-community.zulipchat.com/"
+
+[project.theme]
+logo = "assets/branding/svg/clam-logo-white-buffer-no-margin.svg"
+favicon = "assets/branding/png/clam-logo-white-buffer.png"
+features = ["content.action.edit"]
+variant = "classic"
+
+[project.theme.palette]
+primary = "blue"
+accent = "blue"
+
+[project.markdown_extensions]
+admonition = {}
+md_in_html = {}
+attr_list = {}
+pymdownx.details = {}
+pymdownx.superfences = {}
+pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
+pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
+
+[project.plugins.macros]
+
+[project.plugins.social]
