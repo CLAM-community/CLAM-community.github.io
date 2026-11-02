@@ -29,7 +29,7 @@ jobs:
             - uses: prefix-dev/setup-pixi@82d477f15f3a381dbcc8adc1206ce643fe110fb7 # v0.9.3
               with:
                   pixi-version: latest
-            - run: pixi run zensical build --clean
+            - run: pixi run zensical build --clean --strict
             - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
               with:
                   path: site

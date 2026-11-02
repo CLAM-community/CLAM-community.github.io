@@ -57,11 +57,23 @@
     "types": {
         "steering": {
             "symbol": "🚣",
-            "description": "Current or previous members of the project steering team."
+            "description": "Current or previous members of the project steering team.",
+            "link": "<%= contributor.profile %>"
         },
         "moderator": {
             "symbol": "💫",
-            "description": "Current or previous members of the project moderator team."
+            "description": "Current or previous members of the project moderator team.",
+            "link": "<%= contributor.profile %>"
+        },
+        "content": {
+            "symbol": "🖋",
+            "description": "Content",
+            "link": "<%= contributor.profile %>"
+        },
+        "design": {
+            "symbol": "🎨",
+            "description": "Design",
+            "link": "<%= contributor.profile %>"
         }
     },
     "commitType": "docs"
